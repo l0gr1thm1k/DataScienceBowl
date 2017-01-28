@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+pydicom
+matplotlib
+scikit_image
+boto3
